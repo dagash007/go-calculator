@@ -6,9 +6,8 @@ This project implements a simple calculator in Go, focusing on basic arithmetic 
 ## Instructions
 
 ### How to Run the Program
-1. Clone the repository.
-2. Navigate to the project directory.
-3. To run the program, use `go run calculator.go`.
+1. Clone the repository https://github.com/dagash007/go-calculator.git
+2. Navigate to the project directory https://github.com/dagash007/go-calculator
 
 ### How to Execute Tests (gitbash)
 Run the following command in the terminal:
